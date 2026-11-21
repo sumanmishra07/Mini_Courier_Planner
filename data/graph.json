@@ -1,0 +1,48 @@
+{
+    "Depot": [
+        ["Location_A", 4],
+        ["Location_B", 7],
+        ["Location_C", 9]
+    ],
+    "Location_A": [
+        ["Depot", 4],
+        ["Location_B", 3],
+        ["Location_D", 6]
+    ],
+    "Location_B": [
+        ["Depot", 7],
+        ["Location_A", 3],
+        ["Location_C", 2],
+        ["Location_E", 5]
+    ],
+    "Location_C": [
+        ["Depot", 9],
+        ["Location_B", 2],
+        ["Location_F", 4]
+    ],
+    "Location_D": [
+        ["Location_A", 6],
+        ["Location_E", 2],
+        ["Location_G", 7]
+    ],
+    "Location_E": [
+        ["Location_B", 5],
+        ["Location_D", 2],
+        ["Location_F", 3],
+        ["Location_H", 6]
+    ],
+    "Location_F": [
+        ["Location_C", 4],
+        ["Location_E", 3],
+        ["Location_H", 2]
+    ],
+    "Location_G": [
+        ["Location_D", 7],
+        ["Location_H", 4]
+    ],
+    "Location_H": [
+        ["Location_E", 6],
+        ["Location_F", 2],
+        ["Location_G", 4]
+    ]
+}

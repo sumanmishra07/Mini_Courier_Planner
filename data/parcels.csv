@@ -1,0 +1,9 @@
+Parcel_ID,Deadline,Priority,Weight,Value,Destination
+P01,2,High,4,40,Location_A
+P02,1,Medium,5,30,Location_B
+P03,3,High,4,50,Location_C
+P04,2,Low,6,20,Location_D
+P05,4,High,5,52,Location_E
+P06,3,Medium,5,50,Location_F
+P07,5,Low,3,25,Location_G
+P08,1,High,7,45,Location_H
